@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AlphaBetaPruning:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/AlphaBetaPruning_jar2</output-path>
+    <root id="archive" name="AlphaBetaPruning.jar">
+      <element id="module-output" name="AlphaBetaPruning" />
+    </root>
+  </artifact>
+</component>
